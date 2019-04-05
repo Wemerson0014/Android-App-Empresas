@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/medium_pink</color>
+    <color name="colorPrimaryDark">#b6004c</color>
+    <color name="colorAccent">#d81B60</color>
+    <color name="beige">#ebe9d7</color>
+    <color name="greeny_blue">#57BBBC</color>
+    <color name="white">#ffffff</color>
+    <color name="charcoal_grey">#383743</color>
+    <color name="medium_pink">#ee4c77</color>
+    <color name="warm_grey">#8d8c8c</color>
+</resources>
