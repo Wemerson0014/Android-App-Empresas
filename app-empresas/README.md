@@ -22,4 +22,4 @@ Na tela inicial você deve informar:
 - E-mail: testeapple@ioasys.com.br
 - Senha: 1341234
 
-Na tela seguinte deve-se escolher uma das empresa listada e clicar sobre a mesma. Na tela seguinte será possível obter as informações sobre a respectiva empresa escolhida. Caso queira consultar outras empresas basta apenas clicar em voltar e selecionar outra empresa da lista. 
+Na tela seguinte deve-se escolher uma das empresas listadas e clicar sobre a mesma. Na tela seguinte será possível obter as informações sobre a respectiva empresa escolhida. Caso queira consultar outras empresas basta apenas clicar em voltar e selecionar outra empresa da lista. 
